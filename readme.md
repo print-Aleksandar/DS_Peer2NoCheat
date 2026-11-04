@@ -27,3 +27,6 @@ The network layer can be implemented using two architectures:
 ## Implementation Roadmap
 
 From its earliest stages, the project will implement **Client-Server with queues** in order to demonstrate the idea and allow comparison with the final **P2P** version.
+
+## Client View Shown
+![alt text](image.png)
